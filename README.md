@@ -1,5 +1,5 @@
-# IFCD0112 MF0226 SQL RDB 4 DDL y DML
-BD de empleados y departamentos en SQL: creación de tablas y relaciones (DDL) y carga, modificación y eliminación de datos (DML) con INSERT, UPDATE y DELETE.
+# IFCD0112 MF0226 SQL RDB 5 DDL y DML
+BD en SQL: creación de tablas y relaciones (DDL) y carga, modificación y eliminación de datos (DML) con INSERT, UPDATE y DELETE.
 
 ## Enunciado:
 Se debe crear una base de datos para una empresa, tenemos que disponer de los datos de los empleados y los departamentos a los que pertenecen con su presupuesto.
